@@ -1,0 +1,7 @@
+jupyter
+sklearn
+pandas
+numpy
+scikit-surprise
+matplotlib
+seaborn
